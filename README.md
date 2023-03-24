@@ -5,7 +5,7 @@ IP to domain name or host name
 
 ```
 
-Python ip2doman.py listofips.txt 1000
+Python ip2domain.py listofips.txt 1000
 
 listofip which contain your IP's 
 1000 - threads 
